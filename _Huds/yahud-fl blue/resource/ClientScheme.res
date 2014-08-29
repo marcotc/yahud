@@ -930,7 +930,7 @@ Scheme
             "1"
             {
                 "name"            "Text"
-                "tall"        	"18"
+                "tall"        	"26"
                 "additive"    	"0"
                 "antialias"     "1"
                 "dropshadow"    "0"

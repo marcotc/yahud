@@ -29,7 +29,7 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"west"
 		"fgcolor"		"ya_Damage"
-		"font"			"Medium18"
+		"font"			"Medium26"
 	}
 	"DamageAccountValueShadow"
 	{

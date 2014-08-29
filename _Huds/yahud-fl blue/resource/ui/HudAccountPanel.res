@@ -9,7 +9,7 @@
 		"NegativeColor"			"Red"
 		"zpos"			        "-1"
 		"delta_lifetime"		"0.8"
-		"delta_item_font"		"Medium16"
+		"delta_item_font"		"Medium20"
 		"textAlignment"	"east"
 	}
 	
@@ -87,7 +87,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"White"
-		"font"			"Medium18"
+		"font"			"Medium26"
 	}
 	"AccountValueShadow"
 	{
@@ -108,6 +108,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"ya_Shadow"
-		"font"			"Medium18"
+		"font"			"Medium26"
 	}
 }
